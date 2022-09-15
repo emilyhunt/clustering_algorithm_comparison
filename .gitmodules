@@ -1,3 +1,6 @@
 [submodule "hdbscan_issue_demo"]
 	path = hdbscan_issue_demo
 	url = https://github.com/emilyhunt/hdbscan_issue_demo
+[submodule "nam_2022_clustering_algorithm_talk"]
+	path = nam_2022_clustering_algorithm_talk
+	url = https://github.com/emilyhunt/nam_2022_talk
